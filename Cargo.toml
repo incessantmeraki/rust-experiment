@@ -1,0 +1,6 @@
+[package]
+name = "rust-experiment"
+version = "0.1.0"
+authors = ["akandel <akandel@quantium.com.au>"]
+
+[dependencies]
